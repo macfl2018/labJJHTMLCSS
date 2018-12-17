@@ -1,0 +1,60 @@
+body {
+
+    background: blue; 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+#container{
+
+    background-color: gray; 
+    width: 800px; 
+    margin-left: auto; 
+    margin-right: auto;
+
+
+}
+
+#header{
+    background: pink;
+    color: white;
+    text-align: center;
+
+}
+
+#content{
+    padding: 10px; 
+
+}
+
+#nav{
+    width: 80px;
+    float: left; 
+
+}
+
+#nav ul{
+    list-style-type: NONE;
+
+    padding: left; 
+
+}
+
+
+#main{
+
+    width: 1300px;
+    float: right; 
+}
+
+
+
+#footer{
+
+    clear: both; 
+    width: 30px;
+}
+
+h1, h2, h2{
+
+    Margin: 0;
+}
